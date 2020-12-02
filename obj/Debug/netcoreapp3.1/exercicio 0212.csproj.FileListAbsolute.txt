@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\exercicio 0212\bin\Debug\netcoreapp3.1\exercicio 0212.exe
+C:\Users\ACER\Desktop\exercicio 0212\bin\Debug\netcoreapp3.1\exercicio 0212.deps.json
+C:\Users\ACER\Desktop\exercicio 0212\bin\Debug\netcoreapp3.1\exercicio 0212.runtimeconfig.json
+C:\Users\ACER\Desktop\exercicio 0212\bin\Debug\netcoreapp3.1\exercicio 0212.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\exercicio 0212\bin\Debug\netcoreapp3.1\exercicio 0212.dll
+C:\Users\ACER\Desktop\exercicio 0212\bin\Debug\netcoreapp3.1\exercicio 0212.pdb
+C:\Users\ACER\Desktop\exercicio 0212\obj\Debug\netcoreapp3.1\exercicio 0212.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\exercicio 0212\obj\Debug\netcoreapp3.1\exercicio 0212.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\exercicio 0212\obj\Debug\netcoreapp3.1\exercicio 0212.AssemblyInfo.cs
+C:\Users\ACER\Desktop\exercicio 0212\obj\Debug\netcoreapp3.1\exercicio 0212.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\exercicio 0212\obj\Debug\netcoreapp3.1\exercicio 0212.dll
+C:\Users\ACER\Desktop\exercicio 0212\obj\Debug\netcoreapp3.1\exercicio 0212.pdb
+C:\Users\ACER\Desktop\exercicio 0212\obj\Debug\netcoreapp3.1\exercicio 0212.genruntimeconfig.cache
